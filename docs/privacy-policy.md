@@ -67,7 +67,7 @@ When account deletion is requested and completed, personal account data is delet
 
 You can request deletion directly in the app using the account deletion flow in Security settings.
 
-You may also contact support at our [Email](finance.app007@gmail.com).
+You may also contact support at our [Email](mailto:finance.app007@gmail.com).
 
 For security, we may request proof of account ownership before completing deletion requests.
 
@@ -98,7 +98,7 @@ Depending on your location and applicable law, you may have the right to:
 - request deletion of your personal data;
 - request information about how your data is processed.
 
-To exercise rights, contact `[REPLACE_WITH_SUPPORT_EMAIL]`.
+To exercise rights, contact our [Email](mailto:finance.app007@gmail.com).
 
 ## 12. Changes to This Policy
 
@@ -110,6 +110,6 @@ Continued use of the service after an update means you acknowledge the revised p
 
 For privacy-related questions, requests, or complaints:
 
-- [Email](finance.app007@gmail.com)
+- [Email](mailto:finance.app007@gmail.com).
 - App: Gestor Financeiro
 
